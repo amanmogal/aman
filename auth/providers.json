@@ -3,5 +3,17 @@
         "name": "api-key",
         "type": "api-key",
         "disabled": false
+    },
+    "oauth2-google": {
+        "name": "oauth2-google",
+        "type": "oauth2-google",
+        "disabled": false,
+        "config": {
+            "clientId": "291232116614-blmldotkjg3ma1fk9j8q9bud0584j0nl.apps.googleusercontent.com",
+            "openId": true
+        },
+        "secret_config": {
+            "clientSecret": "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"
+        }
     }
 }
